@@ -1,4 +1,4 @@
-package com.Hibernate;
+package h1.annotations;
 
 /**
  * Hello world!
